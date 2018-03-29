@@ -1,0 +1,7 @@
+.idea/
+vendor/
+composer.lock
+documentation/
+app/ClientContent/ClientProducer.php
+info/
+app/Producer.php
